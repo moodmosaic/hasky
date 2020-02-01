@@ -59,9 +59,3 @@ git clone https://github.com/moodmosaic/hasky.git Hasky
 ```bash
 git clone -b mono https://github.com/braver/FileIcons.git
 ```
-
-# Credits
-
-[Cabal.tmLanguage](https://github.com/SublimeHaskell/SublimeHaskell/blob/32bf27852d3bd843a2d7584dd1efba7e56ba02d1/Syntaxes/Cabal.tmLanguage) ━
-[Hasky (Peacock, and other variations)](https://github.com/SublimeHaskell/SublimeHaskell/blob/1859c8f597d5f1f90c712f2381d01dedf24324eb/Themes/Hasky%20(Dark).tmTheme) ━
-[Hasky.sublime━syntax (Renamed from 'Haskell (improved)')](https://github.com/SublimeHaskell/SublimeHaskell/blob/9d0ec10e9c9380570b8b1308bcb4c7e38cc5b092/Syntaxes/Haskell-SublimeHaskell.sublime-syntax)
